@@ -4,6 +4,8 @@
 
 #### Example:
 
+<img src="Keyboard.png" alt="Keyboard"/>
+
 Input: 56
 
 Output: ["jm","jn","jo","km","kn","ko","lm","ln","lo"]
